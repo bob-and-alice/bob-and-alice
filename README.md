@@ -1,84 +1,48 @@
-<!-- Profil README -->
+<h2 align="left">Hi 👋! My name is MEHMET CEM ....</h2>
+
+###
 
 <div align="center">
-  
-# Mehmet Cem Karaca  
-
-**Yazılım Geliştirici | TCP/IP Programlama Uzmanı | Bug Bounty & Siber Güvenlik Araştırmacısı**  
-
-💻 **Full-Stack geliştirme** ve **ağ tabanlı yazılım mimarileri** ile ilgileniyorum.  
-🔐 Aktif olarak **bug bounty** programlarına katılıyor ve güvenlik açıkları üzerine araştırmalar yapıyorum.  
-
----
-
+  <img src="https://github-readme-stats.vercel.app/api?username=bob-and-alice&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bob-and-alice&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-##  Hakkımda
-- TCP/IP & Socket programlama konusunda deneyimliyim.  
-- Backend’de **C#** ve **Python**, frontend’de **HTML, CSS, JavaScript** üzerine çalışıyorum.  
-- React, Flask ve .NET Core gibi framework’lerle projeler geliştiriyorum.  
-- Veri güvenliği, şifreleme ve ağ güvenliği konularında uzmanlaşma yolundayım.  
+###
 
----
+<img align="right" height="150" src="https://media.tenor.com/94wsoEhGmUcAAAAM/atom-animation.gif"  />
 
-## 🛠 Kullandığım Teknolojiler & Framework’ler
+###
 
-<p>
-  <img src="https://img.shields.io/badge/C%23-8A2BE2?style=for-the-badge&logo=c-sharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-4B8BBE?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-8A2BE2?style=for-the-badge&logo=javascript&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-4B8BBE?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-8A2BE2?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bash_Script-4B8BBE?style=for-the-badge&logo=gnu-bash&logoColor=white" />
-  <img src="https://img.shields.io/badge/Perl-8A2BE2?style=for-the-badge&logo=perl&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-4B8BBE?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-8A2BE2?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-4B8BBE?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/React-4B8BBE?style=for-the-badge&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flask-8A2BE2?style=for-the-badge&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/.NET_Core-4B8BBE?style=for-the-badge&logo=dotnet&logoColor=white" />
-</p>
-
-
----
-
-## 📊 Dil Becerilerim
-
-| Dil        | Seviye |
-|------------|--------|
-| ![C#](https://img.shields.io/badge/-C%23-8A2BE2?style=flat-square&logo=c-sharp&logoColor=white) | ![](https://progress-bar.dev/90/?color=8A2BE2&width=300) |
-| ![Python](https://img.shields.io/badge/-Python-4B8BBE?style=flat-square&logo=python&logoColor=white) | ![](https://progress-bar.dev/85/?color=4B8BBE&width=300) |
-| ![Java](https://img.shields.io/badge/-Java-8A2BE2?style=flat-square&logo=java&logoColor=white) | ![](https://progress-bar.dev/70/?color=8A2BE2&width=300) |
-| ![JavaScript](https://img.shields.io/badge/-JavaScript-4B8BBE?style=flat-square&logo=javascript&logoColor=white) | ![](https://progress-bar.dev/65/?color=4B8BBE&width=300) |
-
----
-
-## 📈 GitHub İstatistiklerim
-
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bob-and-alice&show_icons=true&theme=tokyonight&title_color=8A2BE2&icon_color=4B8BBE&border_color=8A2BE2)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bob-and-alice&layout=compact&theme=tokyonight&title_color=8A2BE2&border_color=4B8BBE)  
-
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="33" alt="javascript logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="33" alt="typescript logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="33" alt="react logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="33" alt="html5 logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="33" alt="css3 logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="33" alt="python logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="33" alt="csharp logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="33" alt="c logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="33" alt="cplusplus logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="33" alt="bash logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="33" alt="amazonwebservices logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/goland/goland-original.svg" height="33" alt="goland logo"  />
 </div>
 
----
+###
 
-## 📫 İletişim
+<br clear="both">
 
-<p>
-  <a href="mailto:karacamehmetcem@protonmail.com"><img src="https://img.shields.io/badge/ProtonMail-8A2BE2?style=for-the-badge&logo=protonmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/mehmet-cem-karaca-754868377/"><img src="https://img.shields.io/badge/LinkedIn-4B8BBE?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://github.com/bob-and-alice"><img src="https://img.shields.io/badge/GitHub-8A2BE2?style=for-the-badge&logo=github&logoColor=white"></a>
-</p>
+<img src="https://raw.githubusercontent.com/bob-and-alice/bob-and-alice/snake.svg" alt="Snake animation" />
 
----
-
-<div align="center">
-
-⭐ *“Kod yazmak bir beceri değil, bir düşünme biçimidir.”*
-
-</div>
+###
